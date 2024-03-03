@@ -40,7 +40,7 @@ Example usage: python RC4_attacker.py
 - `README.md`: This file, containing information about the project.
 
 ## Authors
-- `Ori Sharaby`
-- `Elroei Avraham`
+- Ori Sharaby
+- Elroei Avraham
 
 
