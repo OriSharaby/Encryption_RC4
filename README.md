@@ -1,6 +1,4 @@
-# Function to generate README content
-def generate_readme():
-    readme_content = """# RC4 Encryption and Decryption Tool
+# RC4 Encryption and Decryption Tool
 
 ## Overview
 
@@ -41,17 +39,8 @@ Example usage: python RC4_attacker.py
 - `RC4_attacker.py`: Implements a brute-force attack to decrypt RC4-encrypted ciphertext.
 - `README.md`: This file, containing information about the project.
 
-## Contributing
+## Authors
+- `Ori Sharaby`
+- `Elroei Avraham`
 
-Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details."""
-    
-    # Write README content to a file
-    with open("README.md", "w") as readme_file:
-        readme_file.write(readme_content)
-
-# Call the function to generate README content
-generate_readme()
